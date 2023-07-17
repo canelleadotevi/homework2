@@ -1,1 +1,2 @@
 Projet homework 2
+j'ai créé un box de fond bleu et à l'intérieur un autre box de fond blanc auquel j'ai appliqué la position absolute ,left et top. Ensuite j'ai utilisé la balise b pour mettre en gras, color pour modifier la couleur du texte list style type decimal pour les listes du haut gap line height pour mettre de l'espace entre les lignes.Width et heigth pour appliquer une taille et une hauteur aux images.
